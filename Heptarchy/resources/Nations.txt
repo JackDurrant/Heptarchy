@@ -1,0 +1,42 @@
+*****Saxon*****
+
+Nation: Wessex
+Colour: 238, 195, 104
+
+Nation: Sussex
+Colour: 228, 190, 252
+
+Nation: Kent
+Colour: 245, 186, 156
+
+Nation: Essex
+Colour: 244, 242, 148
+
+Nation: East Anglia
+Colour: 172, 250, 198
+
+Nation: Mercia
+Colour: 172, 190, 252
+
+Nation: Northumbria
+Colour: 249, 173, 193
+
+*****Briton*****
+
+Nation: Dumnonia
+Colour: 127, 0, 0
+
+Nation: Deheubarth
+Colour: 0, 127, 14
+
+Nation: Gwent
+Colour: 76, 255, 0
+
+Nation: Gwynedd
+Colour: 0, 127, 70
+
+Nation: Powys
+Colour: 0, 255, 144
+
+Nation: Picts
+Colour: 255, 0, 0

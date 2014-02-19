@@ -1,0 +1,187 @@
+Province: Cornwall
+Colour: 117, 255, 124
+Owner: Dumnonia
+
+Province: Devon
+Colour: 255, 53, 218
+Owner: Wessex
+
+Province: Somerset
+Colour: 28, 255, 31
+Owner: Wessex
+
+Province: Dorset
+Colour: 255, 251, 48
+Owner: Wessex
+
+Province: Wiltshire
+Colour: 46, 22, 255
+Owner: Wessex
+
+Province: Hampshire
+Colour: 80, 255, 40
+Owner: Wessex
+
+Province: Surrey
+Colour: 255, 39, 15
+Owner: Sussex
+
+Province: Sussex
+Colour: 255, 20, 196
+Owner: Sussex
+
+Province: Kent
+Colour: 28, 54, 255
+Owner: Kent
+
+Province: Essex
+Colour: 244, 242, 148
+Owner: Essex
+
+Province: Cambridgeshire
+Colour: 22, 30, 255
+Owner: East Anglia
+
+Province: Suffolk
+Colour: 255, 30, 68
+Owner: East Anglia
+
+Province: Norfolk
+Colour: 0, 255, 72
+Owner: East Anglia
+
+Province: Gloucestershire
+Colour: 255, 25, 243
+Owner: Mercia
+
+Province: Berkshire
+Colour: 71, 255, 239
+Owner: Mercia
+
+Province: Middlesex
+Colour: 171, 5, 255
+Owner: Mercia
+
+Province: Herefordshire
+Colour: 255, 22, 69
+Owner: Mercia
+
+Province: Oxon
+Colour: 63, 255, 137
+Owner: Mercia
+
+Province: Buckinghamshire
+Colour: 22, 22, 255
+Owner: Mercia
+
+Province: Hertfordshire
+Colour: 255, 30, 94
+Owner: Mercia
+
+Province: Bedfordshire
+Colour: 38, 255, 121
+Owner: Mercia
+
+Province: Huntingdonshire
+Colour: 184, 255, 43
+Owner: Mercia
+
+Province: Worcestershire
+Colour: 255, 247, 33
+Owner: Mercia
+
+Province: Warwickshire
+Colour: 50, 234, 255
+Owner: Mercia
+
+Province: Northamptonshire
+Colour: 255, 46, 22
+Owner: Mercia
+
+Province: Lincolnshire
+Colour: 172, 190, 252
+Owner: Mercia
+
+Province: Shropshire
+Colour: 119, 241, 255
+Owner: Mercia
+
+Province: Staffordshire
+Colour: 239, 20, 255
+Owner: Mercia
+
+Province: Leicestershire
+Colour: 255, 189, 25
+Owner: Mercia
+
+Province: Rutland
+Colour: 33, 132, 255
+Owner: Mercia
+
+Province: Cheshire
+Colour: 255, 0, 0
+Owner: Mercia
+
+Province: Derbyshire
+Colour: 25, 174, 255
+Owner: Mercia
+
+Province: Nottinghamshire
+Colour: 255, 17, 207
+Owner: Mercia
+
+Province: Deheubarth
+Colour: 36, 12, 255
+Owner: Deheubarth
+
+Province: Gwent
+Colour: 255, 248, 56
+Owner: Gwent
+
+Province: Gwynedd
+Colour: 168, 17, 255
+Owner: Gwynedd
+
+Province: Powys
+Colour: 76, 255, 138
+Owner: Powys
+
+Province: Lancashire
+Colour: 255, 149, 28
+Owner: Northumbria
+
+Province: Yorkshire (West Riding)
+Colour: 211, 255, 20
+Owner: Northumbria
+
+Province: Yorkshire (East Riding)
+Colour: 22, 46, 255
+Owner: Northumbria
+
+Province: Yorkshire (North Riding)
+Colour: 255, 131, 107
+Owner: Northumbria
+
+Province: Westmorland
+Colour: 255, 7, 57
+Owner: Northumbria
+
+Province: Durham
+Colour: 219, 15, 255
+Owner: Northumbria
+
+Province: Cumberland
+Colour: 20, 255, 110
+Owner: Northumbria
+
+Province: Northumberland
+Colour: 93, 12, 255
+Owner: Northumbria
+
+Province: Bernicia
+Colour: 255, 218, 168
+Owner: Northumbria
+
+Province: Galloway
+Colour: 127, 0, 0
+Owner: Picts
