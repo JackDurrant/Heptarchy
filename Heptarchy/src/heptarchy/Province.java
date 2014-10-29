@@ -4,7 +4,6 @@ package heptarchy;
  *
  * @author Jack Durrant
  */
-
 import java.awt.image.BufferedImage;
 import java.util.Set;
 import java.util.HashSet;

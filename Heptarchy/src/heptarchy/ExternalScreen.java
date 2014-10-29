@@ -1,5 +1,9 @@
 package heptarchy;
 
+/**
+*
+* @author Jack Durrant
+*/
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Frame;

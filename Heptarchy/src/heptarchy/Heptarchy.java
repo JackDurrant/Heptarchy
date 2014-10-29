@@ -1,13 +1,13 @@
 package heptarchy;
+
+/**
+*
+* @author Jack Durrant
+*/
 //Bugs:
 //Province name rendering quite basic
 //Flash of green land background, check if rendering engine can be clarified
 //Zoom in on mouse cursor from zoomed out past max position does not zoom to cursor
-
-/**
- *
- * @author Jack Durrant
- */
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.image.BufferedImage;

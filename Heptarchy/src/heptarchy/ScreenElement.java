@@ -1,5 +1,9 @@
 package heptarchy;
 
+/**
+*
+* @author Jack Durrant
+*/
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 

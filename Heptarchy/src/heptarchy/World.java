@@ -26,6 +26,10 @@ import java.awt.Color;
 //import java.util.logging.Logger;
 //import java.util.logging.Level;
 
+/**
+*
+* @author Jack Durrant
+*/
 public class World implements java.io.Serializable {
 
 	private static final long serialVersionUID = 1L;
